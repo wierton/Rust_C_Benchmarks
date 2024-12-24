@@ -1,0 +1,4 @@
+*.elf
+*.out
+*.csv
+target/
