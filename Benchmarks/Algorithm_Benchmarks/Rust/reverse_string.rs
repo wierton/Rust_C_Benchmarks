@@ -1,4 +1,4 @@
-pub fn reverse(chars: &mut Vec<_>, len: usize) {
+pub fn reverse(chars: &mut Vec<char>, len: usize) {
     let mut i = 0;
     let mut j = len - 1;
 
