@@ -2,4 +2,6 @@
 *.out
 *.csv
 *.o
+*.ll
+*.bc
 target/
